@@ -4,4 +4,4 @@
 -newman
 -github
 -ci/cd
-- jenkins
+-jenkins
